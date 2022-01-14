@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-devices",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-devices"
+        }
+    },
+    "name": "devices",
+    "build": 2,
+    "version": "22.01-dev"
+}
